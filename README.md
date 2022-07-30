@@ -3,13 +3,13 @@ It is an advanced MVC Core blog site project with admin and member roles, using 
 This project was written as 3 layers on the basis of N-layer architecture.
 
 The following NuGet packages and frameworks are used in this project.
-  AutoMapper,
-  Microsoft.AspNetCore.Identity.EntityFrameworkCore, 
-  Microsoft.EntityFrameworkCore, 
-  Microsoft.EntityFrameworkCore.SqlServer, 
-  Microsoft.EntityFrameworkCore.Tools, Microsoft.Extensions.Identity.Stores, 
-  SixLabors.ImageSharp,
-  SixLabors.ImageSharp.Web
+ AutoMapper,
+ Microsoft.AspNetCore.Identity.EntityFrameworkCore, 
+ Microsoft.EntityFrameworkCore, 
+ Microsoft.EntityFrameworkCore.SqlServer, 
+ Microsoft.EntityFrameworkCore.Tools, Microsoft.Extensions.Identity.Stores, 
+ SixLabors.ImageSharp,
+ SixLabors.ImageSharp.Web
   
 Unregistered users can read articles and also filter by categories they want.
 
